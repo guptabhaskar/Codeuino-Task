@@ -23,3 +23,7 @@ Mention in readme what have you done and what part is remaining. -> ✅ **Comple
 # What's left
 
 Write Test Cases for your code. Use OOPS, Threading, etc whatever fits best for the better approach. -> ❌ **Not Done** ❌
+
+# Ideas for Donut Project
+
+I had this idea in mind about creating a platform which can help us find a team for hackathons. Since, Donut is a Social networking hub, I think this idea fits perfectly with it. Donut can match people on basis of their skills and help new people connect. 
